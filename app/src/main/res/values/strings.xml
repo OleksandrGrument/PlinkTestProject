@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlinkTestProject</string>
+
+    <!-- menu item world news-->
+    <string name="jump_to_source">Jump to source</string>
+
+    <!--Error-->
+    <string name="connection_error">Oops something happened, please check your internet connection</string>
+</resources>
